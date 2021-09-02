@@ -1,5 +1,6 @@
 RENCANA PRODUCT MANAGER
 -belajar Customer Journey Map
+  [Memahami Perencanaan Produk Setelah Customer Journey Workshop]
 -belajar Eisenhower Matrix dan RICE Framework
 -belajar research & quantifying problem
 -membuat product proposal
