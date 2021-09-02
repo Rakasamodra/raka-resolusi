@@ -1,6 +1,7 @@
 RENCANA PRODUCT MANAGER
 -belajar Customer Journey Map
 -belajar Eisenhower Matrix dan RICE Framework
+  [Problem Categorization, Synthesizing Hypothesis, Industry Research, Competitor Analysis]
 -belajar research & quantifying problem
--membuat product proposal
+  [Processing the data, B.I Basics & Data visualization, Hyphothesis Validation]
 -belajar integrated product roadmap
