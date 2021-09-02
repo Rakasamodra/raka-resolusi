@@ -5,3 +5,4 @@ RENCANA PRODUCT MANAGER
 -belajar research & quantifying problem
   [Processing the data, B.I Basics & Data visualization, Hyphothesis Validation]
 -belajar integrated product roadmap
+  [Defining Product; Listing-down from MVP Ch 4]
