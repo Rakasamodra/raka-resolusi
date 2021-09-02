@@ -4,5 +4,6 @@ RENCANA PRODUCT MANAGER
 -belajar Eisenhower Matrix dan RICE Framework
   [Problem Categorization, Synthesizing Hypothesis, Industry Research, Competitor Analysis]
 -belajar research & quantifying problem
--membuat product proposal
+  [Processing the data, B.I Basics & Data visualization, Hyphothesis Validation]
 -belajar integrated product roadmap
+  [Defining Product; Listing-down from MVP Ch 4]
